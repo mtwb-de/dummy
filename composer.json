@@ -1,0 +1,7 @@
+{
+    "name": "mtwb/dummy",
+    "description": "A dummy project to protect the vendor name of mtwb",
+    "require": {
+        "php": ">=7.2"
+    }
+}
